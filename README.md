@@ -3,6 +3,7 @@
 
 ## Člana skupine
 Matevž Nedeljko
+
 Gašper Kočevar
 
 ## Opis aplikacije
