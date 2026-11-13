@@ -2,8 +2,8 @@
 # Moje naloge
 
 ## Člana skupine
-- Ime in priimek prvega člana
-- Ime in priimek drugega člana
+Matevž Nedeljko
+Gašper Kočevar
 
 ## Opis aplikacije
 
